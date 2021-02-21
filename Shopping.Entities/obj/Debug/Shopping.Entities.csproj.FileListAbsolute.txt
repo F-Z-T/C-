@@ -1,0 +1,12 @@
+C:\Users\monster\source\repos\OnlıneShoppıng\Shopping.Entities\bin\Debug\Shopping.Entities.dll
+C:\Users\monster\source\repos\OnlıneShoppıng\Shopping.Entities\bin\Debug\Shopping.Entities.pdb
+C:\Users\monster\source\repos\OnlıneShoppıng\Shopping.Entities\obj\Debug\Shopping.Entities.csprojAssemblyReference.cache
+C:\Users\monster\source\repos\OnlıneShoppıng\Shopping.Entities\obj\Debug\Shopping.Entities.csproj.CoreCompileInputs.cache
+C:\Users\monster\source\repos\OnlıneShoppıng\Shopping.Entities\obj\Debug\Shopping.Entities.dll
+C:\Users\monster\source\repos\OnlıneShoppıng\Shopping.Entities\obj\Debug\Shopping.Entities.pdb
+F:\3.sınıf 1.dönem\görsel programlama\FatmaZehraTurhan\OnlıneShoppıng\Shopping.Entities\bin\Debug\Shopping.Entities.dll
+F:\3.sınıf 1.dönem\görsel programlama\FatmaZehraTurhan\OnlıneShoppıng\Shopping.Entities\bin\Debug\Shopping.Entities.pdb
+F:\3.sınıf 1.dönem\görsel programlama\FatmaZehraTurhan\OnlıneShoppıng\Shopping.Entities\obj\Debug\Shopping.Entities.csprojAssemblyReference.cache
+F:\3.sınıf 1.dönem\görsel programlama\FatmaZehraTurhan\OnlıneShoppıng\Shopping.Entities\obj\Debug\Shopping.Entities.csproj.CoreCompileInputs.cache
+F:\3.sınıf 1.dönem\görsel programlama\FatmaZehraTurhan\OnlıneShoppıng\Shopping.Entities\obj\Debug\Shopping.Entities.dll
+F:\3.sınıf 1.dönem\görsel programlama\FatmaZehraTurhan\OnlıneShoppıng\Shopping.Entities\obj\Debug\Shopping.Entities.pdb
